@@ -1,0 +1,137 @@
+<?php
+// TEST BED
+define('ACCESS_TOKEN_LINK', 'https://vfgh-test.telenity.com/oauth/token?grant_type=client_credentials');
+define('CLIENT_ID', '124f697b927b38dfad1f8d8e28d56e266f66741f');
+define('CLIENT_SECRET', '49784e5140683e7381db182ed26bc003c88a57e4');
+
+// PRODUCTION
+
+define('OAUTH_TOKEN_LINK', 'https://sdp.vodafone.com.gh/oauth/token?grant_type=client_credentials');
+define('MESSAGING_LINK', 'https://sdp.vodafone.com.gh/vfgh/gw/messaging/v1/outbound');
+define('CHARGE_LINK', 'https://sdp.vodafone.com.gh/vfgh/gw/charging/v1/charge');
+
+
+
+
+//for gospel - motivation => 19316
+define('GOSPEL_CLIENT_ID', '55924fa21576c734368c79c8357f2924ed48bd3c');
+define('GOSPEL_CLIENT_SECRET', '7ef6a97d0abe1e9ddf5c16ff549394da380c03ba');
+//for wisdom
+define('WISDOM_CLIENT_ID', '2cebdc57b5b28591967f1a7070352dc7d2546a2e');
+define('WISDOM_CLIENT_SECRET', '7cafe0f0f09be9cfeee2fee243e89e1bba9de047');
+//Finance
+define('FINANCE_CLIENT_ID', 'd7ecc934cdbeaf0517cfc99508e81256216f49e5');
+define('FINANCE_CLIENT_SECRET', '1c0b2ca59a1f667e12bdd2518a01aa7aebf4f592');
+//MOVIES
+define('MOVIES_CLIENT_ID', '3527f9222f3726240a62357bb328ad1c52f28a90');
+define('MOVIES_CLIENT_SECRET', '52e13721fdbd56e1fadf34a329c5b81ebe29f494');
+//Chelsea
+define('CHELSEA_CLIENT_ID', '07009e37730fa54f3c055d9a40722e2cedc7cb1a');
+define('CHELSEA_CLIENT_SECRET', 'ff8f8e61cb69fb63edaeff807a287527e907e120');
+//Real php
+define('REAL_CLIENT_ID', 'cbbed8a374de48eb8916d1e0eb7340ca13c3533b');
+define('REAL_CLIENT_SECRET', '4cbfe43fc451798ffca537eb0e1944d8438f400a');
+// ManU 
+define('MANU_CLIENT_ID', '83f14b2ccdd2602f45b5c8900fdc8c02a8f05939');
+define('MANU_CLIENT_SECRET', 'e37e7c1d0532e190f12bb105e5cb8976d3c79779');
+// Barca 
+define('BARCA_CLIENT_ID', 'e3ce0883200aa366fc46a4c7c67f7ff490c96dec');
+define('BARCA_CLIENT_SECRET', '0612742796c102629732b2d636ccf96278ca5e19');
+// Arsenal
+define('ARSENAL_CLIENT_ID', '3f43ee09ae4aa9335174fdbc148e977232d58323');
+define('ARSENAL_CLIENT_SECRET', '5fda1117fe977166cb70d46d04b89d9267d22c8a');
+// Liverpool 
+define('LIVERPOOL_CLIENT_ID', '1d2a2fcf1d45eb3d31db0b1c91492b2b067651f2');
+define('LIVERPOOL_CLIENT_SECRET', '19669f3614f2b12e6bfe23f62dd1fb6558e92532');
+// ManCity
+define('MANCITY_CLIENT_ID', '386952b024fb0eda2c3ab101ab797025ef84174b');
+define('MANCITY_CLIENT_SECRET', 'daaaa08e99ca30991f005457e7c2ef02a0291092');
+//Sports Arena
+define('SPORTARENA_CLIENT_ID', '1d63f156ada9e6369fdf481e3625167b9f72b48f');
+define('SPORTARENA_CLIENT_SECRET', '563741a2909131e11654208686e28c57c727dfa6');
+// WAEC Results Checker
+define('WAEC_CLIENT_ID', '753f6f6789c3b0dcacb78eea13ae34dffe8a310a');
+define('WAEC_CLIENT_SECRET', '39a8a4877e50256d84416de2e7d1a9eccca03326');
+//DVLA Info Service
+define('DVLAINFO_CLIENT_ID', '34d18c2a4c351358a2ead55663951170a8d7db35');
+define('DVLAINFO_CLIENT_SECRET', 'b377ebeda77bc7c9d99233c95b4ec1bad36e1634');
+// Zylofon Meida/
+define('ZYLOFONEMEDIA_CLIENT_ID', '8eac50fd3e720c3aeb0518d9f59f9d4ae78283e0');
+define('ZYLOFONEMEDIA_CLIENT_SECRET', '2b9098d1dc35795b967472b2d8fa5ff534cb9e5c');
+#######################################################################
+// Catholic =>697
+define('CATHOLIC_CLIENT_ID', '14bdb6ae1be22c9e0a82d73a0a5f0dfee6c24924');
+define('CATHOLIC_CLIENT_SECRET', '1473318bad8686f593c659b0bd3321d8c0b3e664');
+// PPP > 126
+define('PPP_CLIENT_ID', '8184bf9775d9127713e2e515bfa658d26f2cfb40');
+define('PPP_CLIENT_SECRET', '54ad4536fdcab5fcdc3dd8bd39bf272b0c7cd9cc');
+// PKN =>144
+define('PKN_CLIENT_ID', 'd34362b459ca2baca1cd55788fddda77cd34a212');
+define('PKN_CLIENT_SECRET', '4784e65733b6744e4b43d52650d4fb02b349ba2a');
+//AG =>1240
+define('AG_CLIENT_ID', '60bb3d0485300257496ee574e74a1fcb83e651b8');
+define('AG_CLIENT_SECRET', '2a8ed91640a745ba10b771190a5d9938b24601cd');
+//FABU =>2560
+define('FABU_CLIENT_ID', 'de33c8fc68053305e2b1fb77833ecbea676ecfba');
+define('FABU_CLIENT_SECRET', 'b04cfa11e729dd65bf441b6d6d21b44c426c959f');
+//GFA =>656
+define('GFA_CLIENT_ID', 'ea8d76af715d5a988d79aadc2f5cf9f54e65f103');
+define('GFA_CLIENT_SECRET', '8371404f1057b3fc7d22346608961d86bbbf8a89');
+//FAITHS =>4
+define('FAITHS_CLIENT_ID', '14c5a685a79aa1be3cc17af8b0fbe3255cd9e423');
+define('FAITHS_CLIENT_SECRET', 'a5dbc17201e13e8005c7315b4d1e6c6a801479d9');
+//MONEY
+define('MONEY_CLIENT_ID', 'fc1437af2267c5e28845f53ccaa9b5cb0cc896e4');
+define('MONEY_CLIENT_SECRET', '48b1259a6ebe17d0320b17d5037f71f83f9941e4');
+//CARE247
+define('CARE247_CLIENT_ID', '8b9c1e9b8747518ace1492427d21871e983a2e85');
+define('CARE247_CLIENT_SECRET', '82f88b971d34647d09b40ef720dfe749f516e450');
+//MCCUSSD 
+define('MCCUSSD_CLIENT_ID', '37f782715e1038ce32b811aca5797ec5aae80fd9');
+define('MCCUSSD_CLIENT_SECRET', '32812607403ac939f3c1e775a56f63246b3558ee');
+//School Placement
+define('SCHOOLPLACEMENT_CLIENT_ID', 'e73461e0520683fc828b74be3b700104772716cb');
+define('SCHOOLPLACEMENT_CLIENT_SECRET', '15f15d86f76bfdf7dc1412cb42c768ad13dedca8');
+//Silverbird Movies
+define('SILVERBIRD_CLIENT_ID', 'fde0181e467f3fb7f91a4616ca53b9662c1419cb');
+define('SILVERBIRD_CLIENT_SECRET', 'a62ce682657a1e9333b333b8fe98d3717854adc1');
+
+// FAITHS 
+// HEALTHS
+
+
+
+// POMO-CODE1
+define('PROMO1_CLIENT_ID', '3c70ab9fb8fa6dae7c179047568ff4d18a9eb4c0');
+define('PROMO1_CLIENT_SECRET', 'b25d4f6ba716dff00b11e6b91bacacc7229176df');
+// POMO-CODE2
+define('PROMO2_CLIENT_ID', 'ac40412bb4ca2710ac0a0809ad15bbf34dd5fde0');
+define('PROMO2_CLIENT_SECRET', '3cf9b8d05d3a41f582d9ddf91d7b23df1a3ea539');
+// POMO-CODE3
+define('PROMO3_CLIENT_ID', 'c90f9415132891da69934d9a33aa4d62d421d2bc');
+define('PROMO3_CLIENT_SECRET', '3d0003d02db54cd797d6862009575538707e158c');
+// POMO-CODE4
+define('PROMO4_CLIENT_ID', 'd9a8a09466604049ff98d6afcc9ceab41ab2afe1');
+define('PROMO4_CLIENT_SECRET', 'f803e1d3e08214b68582eb49a21e01b4ad119df9');
+// POMO-CODE5
+define('PROMO5_CLIENT_ID', '4e3cb9dd07990e905e600a5413fb7ba2b331e95e');
+define('PROMO5_CLIENT_SECRET', '7e614b5e04a27c22200b97913eae33ab199b61b6');
+// POMO-CODE6
+define('PROMO6_CLIENT_ID', 'b830077540ace2ff95f7c37b46c6ed54f8b587e4');
+define('PROMO6_CLIENT_SECRET', '60be1b10b9a4af506477883aa2ad5bf95f071ea4');
+// Promo code 7 shortcode=1403
+define('PROMO7_CLIENT_ID', 'd40dc43e8a35a2041cbe2f02917c80f127ce59da');
+define('PROMO7_CLIENT_SECRET', 'd65fb90bfd56d403b20f8ac068553f769583a310');
+// Promo code 8 shortcode=1422
+define('PROMO8_CLIENT_ID', '9706bf72bdfd973579587d5b93123fbf08fef90f');
+define('PROMO8_CLIENT_SECRET', 'cf605721c9e1415938cbc981de83953c6c05d2b9');
+// Promo code 9 shortcode=1452
+define('PROMO9_CLIENT_ID', '7c43f7f62b3cd33d485be51e6b46a722ad3a99d1');
+define('PROMO9_CLIENT_SECRET', '06d24de9569a3114d94ffe76b08108d56f7f9fab');
+// 21
+
+
+// echo PROMO6_CLIENT_SECRET;
+
+
+

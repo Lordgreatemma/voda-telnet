@@ -1,0 +1,633 @@
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626154317434136279"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626154318131180340"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626154322478022254"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626154322581015823"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626154806523574822"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626154806615773778"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626154807406161166"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626154807678118193"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626155611556384742"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626155612400364832"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626155612902391461",
+  "clientRequestId": "20220626155612902391461",
+  "transactionId": "990ea0bcc4094425b325004a092b937f",
+  "unit": 1
+} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626155613814108405"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626155942766756675"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062615594369881996"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626155948226444440"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626155949549072651"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626160717594908361"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626160717908961640"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"2022062616072187956971"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626160722422897112"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626160941727016098"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626160942572214675"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626160948967773642"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626160950107209134"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"2022062616105943583105"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161100730844786",
+  "clientRequestId": "20220626161100730844786",
+  "transactionId": "c4a072519964428a921b3fd499562af9",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161105672675772"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161108358002949"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161114349290395"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161114319788270"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161114418321864"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161115684020769"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161116774896246"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161117663377504"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161115465190296",
+  "clientRequestId": "20220626161115465190296",
+  "transactionId": "b0ffe7c473dc4ba08f50c4c0894d7e24",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161118808239362"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161121936774348"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161120785520963",
+  "clientRequestId": "20220626161120785520963",
+  "transactionId": "024be637c4ec431786c60b79cdd05330",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161122125346896"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161124990623989"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161123478544217"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161124217688981"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161125543828157"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062616112549824960"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161125115685044"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161126103379967"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161126521939780"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161129419957234"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161126982425992"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161130917605696"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161130951387561"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161130975156610"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161130603234093"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161129238510060"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161132566808966"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"2022062616113126103468"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161132934161426"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161132850473143"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161133490136107"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"2022062616113256219155"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062616113373825349"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161133832338838"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161133826447341"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161132139584419"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161134224619095"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062616113416181246"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161136723585599"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161136873020133"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161136118323605"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161137197224047"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161136739468880"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161137222185958"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161137609679659"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161137169192177"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"2022062616113827702832"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161139960405838"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161140669122858"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161140248614621"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161140272387147"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161140397275"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161141635881418"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161137518500368"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161141413986015"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161141221903374"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161142699816140"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161142918468873"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161141665596486",
+  "clientRequestId": "20220626161141665596486",
+  "transactionId": "d043c93da02940469817e89919a08a31",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161143520995989"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161144539215375"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161143369183611"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161145103329457"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161144528658924"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161145555511822"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"2022062616114558735430"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161145978508340"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161146175292333"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161146613640229"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161147866936200",
+  "clientRequestId": "20220626161147866936200",
+  "transactionId": "17ef897f42ea4aa696c2e2dac6c921ca",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161148862040119"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161147654032290",
+  "clientRequestId": "20220626161147654032290",
+  "transactionId": "fe9801f6d41041329f071c5f112d9eaa",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161150455662140"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161152428806773"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161153694540624"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161152422536473"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161153387515470"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161153808398568"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161153273464054"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161153951946316"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"202206261611533304282"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161153439049680"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161154130684663"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161155407377667"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161202361095271"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"2022062616120094724065"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161206986603454"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161209298256349"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062616121110762654"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161212943686573"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161214747102040"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161214671842846"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161215896669514"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161216524311313"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161216272895813"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161217257209994"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161217554357265"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161219702500113"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161218930438729",
+  "clientRequestId": "20220626161218930438729",
+  "transactionId": "7ec42d92b17347789983b74f6035b896",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161219747990522"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161220908325601"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161220200664652",
+  "clientRequestId": "20220626161220200664652",
+  "transactionId": "70c86e9935b947d9beb4df776b517a0a",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161220193376970"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161223837448182"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161153910983787"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161225253215563"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161225171109030"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161225336803758"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161226283277796"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161226891473087"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161226801181331"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161227122503372"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161228617243332"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "2022062616122635156603",
+  "clientRequestId": "2022062616122635156603",
+  "transactionId": "6a0df3a815d547fcae069d576cae2791",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161229480377263"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161221424566936"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"202206261612298058946"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161230279923863"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161229836628034",
+  "clientRequestId": "20220626161229836628034",
+  "transactionId": "85b4a98dc35d42cfbdd01b8d049d7554",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161231935699152"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161230329710777"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161232165857657"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"2022062616123329135146"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161232635517633"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161234905233084"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161234106737803"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161232781527774"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161237815910069"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062616123463061826"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161236144299606"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161237798635854"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161238934297026"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161238786032810"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161237130415840"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161238116503012"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"2022062616123833583145"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161238749238799"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161239818567167"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161239485601113"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161239254763088"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"202206261612413359781"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161240613879668"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161239734741371"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161242612074969"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161242106322697"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161242779546358"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161242935583161"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161244887346793"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161245951588334"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161246899291540"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161244508598651"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161246168906140"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161246479233785"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161246551355863"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161244831321810"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161248302693031"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161248436901867"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161247521072332"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161248502845990"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161249466268841"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161249121627547"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161254992434043"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161256629254866"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161254779949364"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161254289776555"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161308745648392"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161308391974483",
+  "clientRequestId": "20220626161308391974483",
+  "transactionId": "28cb72c466984b5c8e09dd67f52b637f",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161310129147111"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161311515148363"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161311772653940"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161315753784728"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"2022062616131580571237"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161315707426310"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161315280800513"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161315921788485"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161318994361638"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161318420611276"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161318596380677"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161319674435447"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161319988333880"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"2022062616131940039361"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161319160392605"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161320358904232"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161322745870185"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161322923985533"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062616132352922259"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161323299229327"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161322917635361"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161325222758047",
+  "clientRequestId": "20220626161325222758047",
+  "transactionId": "06cd3871d324412aae34d61bdfd7c8af",
+  "unit": 1
+} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161326398226205"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161327859258639"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161327557032784"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161327567512600"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161329279060597",
+  "clientRequestId": "20220626161329279060597",
+  "transactionId": "a226dc8ec69d42d99a61055bb8c5be77",
+  "unit": 1
+} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161330656467625"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161331879243930"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"2022062616133317877213"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161332252785893"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062616133459231227"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161335618687758"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161335715009960"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161335830282991"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161337739672599"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161336347301936"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161338158125303"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161338344685252"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161340768651799"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161340462124849"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161340600067585"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161339795164231"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161343991049597"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161343493565845"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161343846628796",
+  "clientRequestId": "20220626161343846628796",
+  "transactionId": "1c41a5c3737a4a338683c2cff504de1a",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161345643949855"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161347175978946"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161346717341841"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161347644485161"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161348422742092"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062616134795135164"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161349559525032"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161350188127821"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161349254452113"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161358318914260"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161409861165914"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161350668118180"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161410393297305"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161411296415363"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161413294765118",
+  "clientRequestId": "20220626161413294765118",
+  "transactionId": "5910af172bfa42c782d8a5b5b297d76c",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161417596956134"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161420747447988"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161421420705082"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161421507091111"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"2022062616142250392425"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161424569803705"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062616142442546895"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161427537531043"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161429756300879"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161430813534561"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161430643964940"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161431519748379"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161437785183376"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161439359333492"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161440489091438"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"2022062616144275772915"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161444534507615"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161446169130635"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161450252243759"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161451404189730"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161453248276142"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161454828367528"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161455923269701"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161456940065331"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161506522430195"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161510239594491"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161520865863965"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161520204975760"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161521819805542"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161521937714911"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161523937247146"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161526208227477"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161526468373453"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161527839533341"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161529887665533"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161530186766557"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161532509244733"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161532545334319"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161532745195582",
+  "clientRequestId": "20220626161532745195582",
+  "transactionId": "c0141baf54f1496d8dd446a2b75ed455",
+  "unit": 1
+} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"2022062616153641979251"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161536702410745"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161538427612370"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161540109935786"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161547476562962"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161547301712948"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161548328805788"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161548954224623"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161549415948990"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161553186381235"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161555663491889"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161556713538652"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161600460074377"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161556458126838"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626161602609650764",
+  "clientRequestId": "20220626161602609650764",
+  "transactionId": "28630c1c3da546b295c84053335c5326",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161611477563303"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161611888396895"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161612722631070"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161613492760516"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161614975326815"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161618195608858"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626161618598693190"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161619607363494"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161620283465361"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626161621565676361"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161621288570906"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626161623578087621"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626161709755109606"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626161711170995623"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626162003295109071"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626162004713833566"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626162004539293756"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626162836268135072"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626162836579792359"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626162837989039383"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626163218582306412"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626163220951887131"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626163220869468339"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626163541503189272"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062616354264857034"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626163542730732770"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626165019429718578"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626165020438786175"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626165021686745164"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626165405785866169"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626165405109337773"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626165405671498825"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626170401681416506"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626170401600355866"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626170401481229976"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626171341611298360"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"2022062617134482188726"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626171345256871769"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"202206261718279624149"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626171827807441026"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"202206261718281012806"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626172700807629146"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626172704680087748"} ];
+[  {"errorCode":"8001022","errorMsg":"Technical problem","rootErrorCode":"1","clientRequestId":"20220626172653164185386"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626172810951104372"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062617281398997172"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"2022062617281772879286"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626172912195850875"} ];
+[  {"errorCode":"8001022","errorMsg":"Technical problem","rootErrorCode":"1","clientRequestId":"20220626172831675427491"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626172912853205438"} ];
+[  {"errorCode":"8001022","errorMsg":"Technical problem","rootErrorCode":"1","clientRequestId":"20220626172918916769784"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626173008607372077"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626173102703645862"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626173105197172335"} ];
+[  {"errorCode":"8001022","errorMsg":"Technical problem","rootErrorCode":"1","clientRequestId":"20220626173015565865153"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626173112952050255"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626173132680499005"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626173154520211610"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626173157455185368"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626173407945573924"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626173418774376365"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626173418651838425"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"2022062617423080019901"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626174240367608620"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626174252796615458"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626174606997967165"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626174609861514593"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626175612307223414"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626175845390488506"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626175845201499021"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626180035389894133"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626180047853696120"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626180040112401710"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626180242117761439"} ];
+[  {"errorCode":"8001022","errorMsg":"Technical problem","rootErrorCode":"1","clientRequestId":"20220626180207112443688"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626180322269500348"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626181802690885636"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626182100373104481"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626182115671014479"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626182116994413767"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626182418105769693"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626182419793805392"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626182427144470006"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626182520299799479"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"2022062618252724180043"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626182544590819701"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626182640759465556"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626182641571467564"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626182645404615644"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626182647673434239"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062618264757286666"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626182659519586827"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626182705242156654"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626182706623526644"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626182736654150101"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626182739975656809"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"2022062618275037573534"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626182757399629790"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626182802520232102"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626182803248725842"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626182829976708938"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"2022062618285782880255"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626182908108802164"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"2022062618290812121396"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183208520696263"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183210555362726"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626183210705522614"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626183338409482164",
+  "clientRequestId": "20220626183338409482164",
+  "transactionId": "d49fa63732c14a4a90f039e363e86a62",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"2022062618335857183407"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183359709975440"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183426170184598"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183427856867159"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626183445509062355"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626183450473317991"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626183454252155102"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183450266078804"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183459405164982"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183459608459550"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183500881748410"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183501353243672"} ];
+[  {"errorCode":"8001022","errorMsg":"Technical problem","rootErrorCode":"1","clientRequestId":"20220626183455594875564"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"2022062618354348584673"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626183536307439777"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062618354329353347"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183557180709861"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183557553470779"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"2022062618355791307084"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183555521006594"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183603990531078"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183557409702681"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183608723790293"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"2022062618360891289889"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626183615177787289"} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626183620995682510"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183620818102513"} ];
+[  {"errorCode":"8001022","errorMsg":"Technical problem","rootErrorCode":"1","clientRequestId":"20220626183604416331578"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062618364444082548"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183631164364699"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183651217396392"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183657392207743"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "2022062618365883746892",
+  "clientRequestId": "2022062618365883746892",
+  "transactionId": "9c3294a57ecb4a379cb89f0c178703cc",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183656905703837"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183701293519072"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626183705935377042",
+  "clientRequestId": "20220626183705935377042",
+  "transactionId": "9052baa5b5d94e3db1fefbd25380cf2a",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626183700503500947"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183711359189991"} ];
+[  {"errorCode":"8001022","errorMsg":"Service Daily Charge Limit Reached Details: DailyLimitReachedException","rootErrorCode":"1","clientRequestId":"20220626183718321462398"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183719889554996"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626183732495590750"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183748915261327"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626183752510784341"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626183758568649428"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626183759710227534"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626183803866997059",
+  "clientRequestId": "20220626183803866997059",
+  "transactionId": "df3866a588d84f2cb972b9ea83c23f50",
+  "unit": 1
+} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626183810720591381"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626184222721119974"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626184233819327749"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626184251636465744"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626184615699339109"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626184615315617134"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626184615730158888"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626184843238347928"} ];
+[  {"errorCode":"8001022","errorMsg":"Customer is not Eligible for Carrier Billing Details: SubscriberNotAssociatedException","rootErrorCode":"1","clientRequestId":"20220626184903403348376"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626184911953133563"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "202206261852554478123",
+  "clientRequestId": "202206261852554478123",
+  "transactionId": "dbcada585a8047b5b746344ccd63111b",
+  "unit": 1
+} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626185306651365996",
+  "clientRequestId": "20220626185306651365996",
+  "transactionId": "84ae7b2650f54103851dd190ecde4569",
+  "unit": 1
+} ];
+[  {"errorCode":"99","errorMsg":"Rejected due to in blacklist!","rootErrorCode":"403","clientRequestId":"20220626185313596244459"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"2022062619030325425334"} ];
+[  {"errorCode":"4","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4012","clientRequestId":"20220626190307461107034"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626190312679115716"} ];
+[  {"errorCode":"8001022","errorMsg":"General Error Details: debit error response: [errorCode: 1, errorMessage: Technical problem]","rootErrorCode":"1","clientRequestId":"20220626191104883825445"} ];
+[  {"errorCode":"8001022","errorMsg":"Specify to external credit; not enough credit","rootErrorCode":"4","clientRequestId":"20220626191110941358478"} ];
+[  {
+  "amount": "0.2",
+  "clientChargeTransactionId": "20220626191111617039828",
+  "clientRequestId": "20220626191111617039828",
+  "transactionId": "82703fe91dd94a8991d8b7a5455204a2",
+  "unit": 1
+} ];

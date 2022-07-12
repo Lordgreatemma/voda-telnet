@@ -1,0 +1,8 @@
+Array
+(
+    [TransactionId] => mcc-553382716202204190857300185bb8cd6f6a0d8b4a5
+    [Channel] => SMS
+    [msisdn] => 233207743783
+    [offer] => Gospel Daily
+    [inactivationReason] => no more fund
+)

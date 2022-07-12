@@ -1,0 +1,32 @@
+REQUEST array(5) {
+  ["_GET"]=>
+  array(0) {
+  }
+  ["_POST"]=>
+  array(0) {
+  }
+  ["_COOKIE"]=>
+  array(0) {
+  }
+  ["_FILES"]=>
+  array(0) {
+  }
+  ["GLOBALS"]=>
+  array(5) {
+    ["_GET"]=>
+    array(0) {
+    }
+    ["_POST"]=>
+    array(0) {
+    }
+    ["_COOKIE"]=>
+    array(0) {
+    }
+    ["_FILES"]=>
+    array(0) {
+    }
+    ["GLOBALS"]=>
+    *RECURSION*
+  }
+}
+

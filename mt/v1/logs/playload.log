@@ -1,0 +1,23 @@
+Array
+(
+    [address] => Array
+        (
+            [0] => 233208137375
+        )
+
+    [senderAddress] => 1402
+    [outboundSMSTextMessage] => Array
+        (
+            [message] => WISDOM:
+In order to realize your full potential of success in life, you have to see every situation as an opportunity without taking things for granted.
+        )
+
+    [clientCorrelator] => mcc-28123520589418a2807608a38583982647
+    [receiptRequest] => Array
+        (
+            [notifyURL] => https://mysmsinbox.com/telnet_sdp/mt/v1/notify/
+            [callbackData] => some-data-useful-to-the-mcc
+        )
+
+    [senderName] => Mobile Content
+)

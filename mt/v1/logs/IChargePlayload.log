@@ -1,0 +1,15 @@
+Array
+(
+    [amount] => 0.2
+    [clientChargeTransactionId] => 20220528181507366085590
+    [clientRequestId] => 20220528181507366085590
+    [channel] => SMS
+    [msisdn] => 233206846412
+    [offer] => WSDM
+    [description] => Charge amount for WSDM
+    [unit] => 1
+    [parameters] => Array
+        (
+        )
+
+)

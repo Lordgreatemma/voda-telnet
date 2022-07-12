@@ -1,0 +1,23 @@
+Array
+(
+    [address] => Array
+        (
+            [0] => 233208152055
+        )
+
+    [senderAddress] => 1402
+    [outboundSMSTextMessage] => Array
+        (
+            [message] => WISDOM:
+There are more possibilities available to you now than there have ever been. Every setback, and every mistake has given you a way to grow in wisdom.
+        )
+
+    [clientCorrelator] => mcc-1209411742eeb5481ede016667d9410903
+    [receiptRequest] => Array
+        (
+            [notifyURL] => https://mysmsinbox.com/telnet_sdp/mt/v1/notify/
+            [callbackData] => WSDM
+        )
+
+    [senderName] => Mobile Content
+)

@@ -1,0 +1,22 @@
+[  {
+ "merchantId": "XYZ",
+ "carrierId": "VDF_Ghana",
+ "shortCode": "625001",
+ "accountInfo": {
+ "accountIdType": "MSISDN",
+ "accountId": "233546512000"
+ },
+ "smsText": "DCB: TEXT",
+ "carrierTransactionId": "7001474976385954321"
+} ];
+[  {
+ "merchantId": "XYZ",
+ "carrierId": "VDF_Ghana",
+ "shortCode": "625001",
+ "accountInfo": {
+ "accountIdType": "MSISDN",
+ "accountId": "233546512000"
+ },
+ "smsText": "DCB: TEXT",
+ "carrierTransactionId": "7001474976385954321"
+} ];
